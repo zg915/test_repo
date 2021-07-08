@@ -1,5 +1,3 @@
 Hello
 
 hi
-
-hi
